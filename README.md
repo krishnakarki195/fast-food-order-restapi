@@ -5,10 +5,10 @@ Endpoint Specification
 Create a new order
 Endpoint: /api/orders Type: POST Request Body:
 
-{
-    "customerName": "Hungry Man Jr",
-    "description": "Burger, double meat, extra pickles, doughnut buns, diet coke",
-}
+    {
+        "customerName": "Hungry Man Jr",
+        "description": "Burger, double meat, extra pickles, doughnut buns, diet coke",
+    }
 
 
 Response Body:
